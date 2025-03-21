@@ -76,7 +76,7 @@
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <!-- Instagram -->
-  <a href="https://www.instagram.com/yourusername" target="_blank" rel="noreferrer">
+  <a href="https://www.instagram.com/maisha_iffat" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
