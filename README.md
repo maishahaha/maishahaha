@@ -1,3 +1,5 @@
+<hr>
+<hr>
 <h1 align="center">👋 Hi! I'm Maishahaha!  </h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
