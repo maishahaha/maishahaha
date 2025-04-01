@@ -7,10 +7,10 @@
   </a>
 </p>
 
-<p align="center"><img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e47hlftl1won13njtyhpaxqfjp2z02rp05s4ywm24nj&ep=v1_gifs_search&rid=giphy.gif&ct=g" /></p>
+<p align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG5rd3BscXo4bW92ZGJsMmcwdWNyYWRtOXk4Z24wcGQzb2swYjlpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" /></p>
 
 <p align="center">
-🎓 Computer Science & Engineering Student. <br>
+🎓 Computer Science & Engineering Student @BracU <br>
 🔍 Passionate about Software Development, AI, and UX/UI Design. <br>
 📚 Constantly learning and exploring new technologies. <br>
 </p>
