@@ -10,7 +10,7 @@
 <p align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG5rd3BscXo4bW92ZGJsMmcwdWNyYWRtOXk4Z24wcGQzb2swYjlpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" /></p>
 
 <p align="center">
-🎓 Computer Science & Engineering Student @BracU <br>
+🎓 Majoring in Computer Science & Engineering @BRACU <br>
 🔍 Passionate about Software Development, AI, and UX/UI Design. <br>
 📚 Constantly learning and exploring new technologies. <br>
 </p>
